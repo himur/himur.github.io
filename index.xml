@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dom</title>
+    <link>https://himur.github.io/</link>
+    <description>Recent content on Dom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2024 12:33:09 +0100</lastBuildDate><atom:link href="https://himur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Il mio primo post</title>
+      <link>https://himur.github.io/posts/helloworld/</link>
+      <pubDate>Thu, 18 Jan 2024 12:33:09 +0100</pubDate>
+      
+      <guid>https://himur.github.io/posts/helloworld/</guid>
+      
+      <description>Questa è solo una prova. lorem ipsum qsalkfjseopfjwe wfeofnwekfnsd sodjfskf owjdfsklfjlsdkfjdkslfmdslkfn</description>
+      
+    </item>
+    
+  </channel>
+</rss>
