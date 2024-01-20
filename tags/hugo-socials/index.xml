@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dom</title>
-    <link>https://domenico.click/</link>
-    <description>Recent content on Dom</description>
+    <title>hugo, socials on Dom</title>
+    <link>https://domenico.click/tags/hugo-socials/</link>
+    <description>Recent content in hugo, socials on Dom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jan 2024 14:10:34 +0100</lastBuildDate><atom:link href="https://domenico.click/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jan 2024 14:10:34 +0100</lastBuildDate><atom:link href="https://domenico.click/tags/hugo-socials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sono tornato</title>
       <link>https://domenico.click/posts/sono-tornato/</link>
@@ -15,17 +15,6 @@
       <guid>https://domenico.click/posts/sono-tornato/</guid>
       
       <description>Buonasera a voi. Sono le ore 23.31 del 20 Gennaio 2024. Questo è il mio primo articolo sul blog e non so quando verrà pubblicato. Ciò nonostante non mi importa nulla. Non ho più intenzione di star dietro a scadenze o alle solite regola che un blogger o creator dicono che debba avere, insomma, niente costanza, niente quantità e qualità. Ci metterò tutto me stesso per poter rendere fruibili i miei contenuti.</description>
-      
-    </item>
-    
-    <item>
-      <title>Adesso sono online</title>
-      <link>https://domenico.click/posts/sitoattivo/</link>
-      <pubDate>Thu, 18 Jan 2024 14:10:34 +0100</pubDate>
-      
-      <guid>https://domenico.click/posts/sitoattivo/</guid>
-      
-      <description>Penso di aver capito come aggiungere i contenuti e come fare il deploy del sito. Adesso manca il dominio e la modifica del sito.</description>
       
     </item>
     
