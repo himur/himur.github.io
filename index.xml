@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dom</title>
-    <link>https://himur.github.io/</link>
+    <link>https://domenico.click/</link>
     <description>Recent content on Dom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jan 2024 14:10:34 +0100</lastBuildDate><atom:link href="https://himur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jan 2024 14:10:34 +0100</lastBuildDate><atom:link href="https://domenico.click/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adesso sono online</title>
-      <link>https://himur.github.io/posts/sitoattivo/</link>
+      <link>https://domenico.click/posts/sitoattivo/</link>
       <pubDate>Thu, 18 Jan 2024 14:10:34 +0100</pubDate>
       
-      <guid>https://himur.github.io/posts/sitoattivo/</guid>
+      <guid>https://domenico.click/posts/sitoattivo/</guid>
       
       <description>Penso di aver capito come aggiungere i contenuti e come fare il deploy del sito. Adesso manca il dominio e la modifica del sito.</description>
       
