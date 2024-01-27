@@ -393,6 +393,8 @@ table th, table td {
 @media (max-width: 767px) {
     body {
         padding: 20px;
+        font-size: 20px;
+        font-family: "Roboto Condensed";
     }
 
     h1 {
