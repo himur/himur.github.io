@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DT</title>
+    <link>https://domenico.click/</link>
+    <description>Recent content on DT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright - Creato da Domenico Toscano</copyright>
+    <lastBuildDate>Sat, 20 Jan 2024 14:10:34 +0100</lastBuildDate>
+    <atom:link href="https://domenico.click/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chi sono</title>
+      <link>https://domenico.click/about/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://domenico.click/about/</guid>
+      <description>Sono Domenico Toscano e sono qui per creare questo grandissimo progetto proiettato nel futuro. Ho delle idee in testa che scoprirai in questo mio viaggio verso il futuro. Quando sono approdato su internet per la prima volta l&amp;rsquo;unico social era mIRC e, quanto si stava bene! Adesso è cambiato praticamente tutto, in parte sta andando bene, soprattutto se pensiamo all&amp;rsquo;utilizzo costruttivo del web ma su altri aspetti no e ve lo spiegherò man mano, o almeno, vi spiegherò il mio punto di vista.</description>
+    </item>
+    <item>
+      <title>Sono tornato</title>
+      <link>https://domenico.click/posts/sono-tornato/</link>
+      <pubDate>Sat, 20 Jan 2024 14:10:34 +0100</pubDate>
+      <guid>https://domenico.click/posts/sono-tornato/</guid>
+      <description>Buonasera a voi. Sono le ore 23.31 del 20 Gennaio 2024. Questo è il mio primo articolo sul blog e non so quando verrà pubblicato. Ciò nonostante non mi importa nulla. Non ho più intenzione di star dietro a scadenze o alle solite regola che un blogger o creator dicono che debba avere, insomma, niente costanza, niente quantità e qualità. Ci metterò tutto me stesso per poter rendere fruibili i miei contenuti.</description>
+    </item>
+  </channel>
+</rss>
