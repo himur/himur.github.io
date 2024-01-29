@@ -17,5 +17,14 @@
       <description>Buonasera a voi. Sono le ore 23.31 del 20 Gennaio 2024. Questo è il mio primo articolo sul blog e non so quando verrà pubblicato. Ciò nonostante non mi importa nulla. Non ho più intenzione di star dietro a scadenze o alle solite regole che un blogger o creator dicono che debba avere, insomma, niente costanza, niente quantità e qualità. Ci metterò tutto me stesso per poter rendere fruibili i miei contenuti.</description>
     </item>
     
+    <item>
+      <title>Prova</title>
+      <link>https://domenico.click/posts/prova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://domenico.click/posts/prova/</guid>
+      <description>##Questa è una prova</description>
+    </item>
+    
   </channel>
 </rss>
