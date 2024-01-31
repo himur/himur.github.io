@@ -5,7 +5,13 @@
     <loc>https://domenico.click/about/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://domenico.click/categories/</loc>
+    <lastmod>2024-01-20T14:10:34+01:00</lastmod>
+  </url><url>
     <loc>https://domenico.click/</loc>
+    <lastmod>2024-01-20T14:10:34+01:00</lastmod>
+  </url><url>
+    <loc>https://domenico.click/categories/homepage/</loc>
     <lastmod>2024-01-20T14:10:34+01:00</lastmod>
   </url><url>
     <loc>https://domenico.click/tags/hugo-socials/</loc>
@@ -19,7 +25,5 @@
   </url><url>
     <loc>https://domenico.click/tags/</loc>
     <lastmod>2024-01-20T14:10:34+01:00</lastmod>
-  </url><url>
-    <loc>https://domenico.click/categories/</loc>
   </url>
 </urlset>
