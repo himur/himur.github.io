@@ -11,19 +11,22 @@
     <loc>https://domenico.click/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://domenico.click/categories/</loc>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://domenico.click/categories/homepage/</loc>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://domenico.click/posts/</loc>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://domenico.click/posts/acer-chromebook11/</loc>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://domenico.click/about/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://domenico.click/categories/</loc>
-    <lastmod>2024-01-20T14:10:34+01:00</lastmod>
-  </url><url>
-    <loc>https://domenico.click/categories/homepage/</loc>
-    <lastmod>2024-01-20T14:10:34+01:00</lastmod>
-  </url><url>
     <loc>https://domenico.click/tags/hugo-socials/</loc>
-    <lastmod>2024-01-20T14:10:34+01:00</lastmod>
-  </url><url>
-    <loc>https://domenico.click/posts/</loc>
     <lastmod>2024-01-20T14:10:34+01:00</lastmod>
   </url><url>
     <loc>https://domenico.click/posts/sono-tornato/</loc>
@@ -31,7 +34,5 @@
   </url><url>
     <loc>https://domenico.click/tags/</loc>
     <lastmod>2024-01-20T14:10:34+01:00</lastmod>
-  </url><url>
-    <loc>https://domenico.click/posts/acer-chromebook11/</loc>
   </url>
 </urlset>
