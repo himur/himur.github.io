@@ -2,23 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://domenico.click/categories/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://domenico.click/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://domenico.click/categories/homepage/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://domenico.click/tags/ipad-apple-setup-pc/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://domenico.click/posts/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://domenico.click/posts/sostituireipadconilpc/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://domenico.click/tags/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://domenico.click/books/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://domenico.click/books/bryanquinn-missione-salvataggio/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://domenico.click/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://domenico.click/categories/</loc>
-    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://domenico.click/categories/homepage/</loc>
-    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://domenico.click/posts/</loc>
-    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://domenico.click/posts/acer-chromebook11/</loc>
     <lastmod>2024-01-29T00:00:00+00:00</lastmod>
@@ -30,9 +39,6 @@
     <lastmod>2024-01-20T14:10:34+01:00</lastmod>
   </url><url>
     <loc>https://domenico.click/posts/sono-tornato/</loc>
-    <lastmod>2024-01-20T14:10:34+01:00</lastmod>
-  </url><url>
-    <loc>https://domenico.click/tags/</loc>
     <lastmod>2024-01-20T14:10:34+01:00</lastmod>
   </url>
 </urlset>
